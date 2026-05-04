@@ -1,6 +1,9 @@
 #ignore venv
 venv/
 
+#ignore assets
+assets/
+
 #ignore pycache
 __pycache__/
 
